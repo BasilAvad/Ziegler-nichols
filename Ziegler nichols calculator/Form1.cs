@@ -114,5 +114,10 @@ namespace Ziegler_nichols_calculator
             Pcr_tbx.Text = null;
             Kcr_tbx.Text = null;
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.BackColor = Color.FromArgb(255, 232, 232); // this should be pink-ish
+        }
     }
 }

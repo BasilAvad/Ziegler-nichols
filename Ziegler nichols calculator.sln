@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ziegler nichols calculator", "Ziegler nichols calculator\Ziegler nichols calculator.csproj", "{D0E95D2D-EAB4-4285-AE63-22A837B84B83}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Zieg-Nic Calculator", "Zieg-Nic Calculator\Zieg-Nic Calculator.vdproj", "{04EE770E-4290-44CC-AF3E-A71B2A88762E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{D0E95D2D-EAB4-4285-AE63-22A837B84B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0E95D2D-EAB4-4285-AE63-22A837B84B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0E95D2D-EAB4-4285-AE63-22A837B84B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04EE770E-4290-44CC-AF3E-A71B2A88762E}.Debug|Any CPU.ActiveCfg = Debug
+		{04EE770E-4290-44CC-AF3E-A71B2A88762E}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
